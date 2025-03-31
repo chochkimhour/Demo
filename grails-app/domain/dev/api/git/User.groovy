@@ -2,7 +2,7 @@ package dev.api.git
 
 class User {
 
-    String name
+    String fullName
     String email
 
     static constraints = {
